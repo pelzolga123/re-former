@@ -1,7 +1,7 @@
 
 <h1 align="center">Re-Former 👋</h1>
 
-<a href="https://ibb.co/N6CGngr"><img src="https://i.ibb.co/Y7QVT4X/Screenshot-from-2020-03-13-15-59-56.png" alt="Screenshot-from-2020-03-13-15-59-56" border="0"></a>
+<img src="https://i.ibb.co/Y7QVT4X/Screenshot-from-2020-03-13-15-59-56.png" alt="Screenshot-from-2020-03-13-15-59-56" border="0">
 
 ## About The Project
 
